@@ -7,7 +7,7 @@ package gosayhello
 // )
 
 func sayHello() string {
-	return "Hello"
+	return "Hello All"
 }
 
 // type Filter func(string) string
